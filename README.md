@@ -1,4 +1,11 @@
 README for MzansiFoSho
+Micealah Tyler
+ *  The content presented in this Mzansi Fo Sho (Part 2) submission is my own original work.
+ *  AI tools such as ChatGPT were used as a learning aid to:
+ *  Clarify coding concepts, Refine layout styling and ensure project readability.
+ *  Generate sample data (event objects) for testing and demonstration purposes.
+ *  All code integration, testing, debugging, and user interface refinements were performed by me.
+ *  The AI-generated assistance was reviewed, modified, and applied with academic integrity, ensuring full understanding.
 	
 How to Compile and Run the Program
 Prerequisites
