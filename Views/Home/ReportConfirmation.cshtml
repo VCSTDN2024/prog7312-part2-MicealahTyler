@@ -1,0 +1,33 @@
+﻿@model MzansiFoSho_ST10070824.Models.Issues
+@using MzansiFoSho_ST10070824.Models;
+@using MzansiFoSho_ST10070824;
+@using MzansiFoSho_ST10070824.Controllers;
+
+@{
+    ViewBag.Title = "Report Confirmation";
+}
+<style>
+    body {
+        background-color: #d4edda;
+    }
+</style>
+<div class="card mx-auto mt-5" style="max-width:600px;">
+    <div class="card-header bg-success text-white">
+        <h3 class="card-title mb-0">Report Submitted</h3>
+    </div>
+    <div class="card-body">
+        <p class="text-muted">Your issue has been logged successfully!</p>
+
+        <ul class="list-group mb-3">
+            <li class="list-group-item"><strong>Address Line 1:</strong> @Model.Location1</li>
+            <li class="list-group-item"><strong>Address Line 2:</strong> @Model.Location2</li>
+            <li class="list-group-item"><strong>City:</strong> @Model.City</li>
+            <li class="list-group-item"><strong>Province:</strong> @Model.Province</li>
+            <li class="list-group-item"><strong>Category:</strong> @Model.Category</li>
+            <li class="list-group-item"><strong>Description:</strong> @ViewBag.Engagement</li>
+            <li class="list-group-item"><strong>Attachment:</strong> @ViewBag.AttachmentName</li>
+        </ul>
+
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Back to Main Menu</a>     
+    </div>
+</div>

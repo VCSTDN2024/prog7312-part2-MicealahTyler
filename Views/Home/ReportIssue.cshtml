@@ -1,0 +1,81 @@
+﻿@model MzansiFoSho_ST10070824.Models.Issues
+@using MzansiFoSho_ST10070824.Models;
+@using MzansiFoSho_ST10070824.Controllers;
+@{
+    ViewBag.Title = "Report an Issue";
+}
+<style>
+    body {
+        background-color: #d4edda;
+    }
+</style>
+
+<div class="card mx-auto" style="max-width:600px;">
+    <div class="card-header bg-primary text-white">
+        <h3 class="card-title mb-0">Report an Issue</h3>
+    </div>
+    <div class="card-body">
+        <p class="text-muted">Fill in the details below and attach any relevant files.</p>
+
+        @using (Html.BeginForm("ReportIssue", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="mb-3">
+                @Html.LabelFor(m => m.Location1, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Location1, new { @class = "form-control", placeholder = "Enter Address", required = "required" })
+                @Html.ValidationMessageFor(m => m.Location1, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="mb-3">
+                @Html.LabelFor(m => m.Location2, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Location2, new { @class = "form-control", placeholder = "Enter Address", required = "required" })
+                @Html.ValidationMessageFor(m => m.Location2, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="mb-3">
+                @Html.LabelFor(m => m.City, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.City, new { @class = "form-control", placeholder = "Enter City", required = "required" })
+                @Html.ValidationMessageFor(m => m.City, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="mb-3">
+                @Html.LabelFor(m => m.Province, new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.Province, new { @class = "form-control", placeholder = "Enter Province", required = "required" })
+                @Html.ValidationMessageFor(m => m.Province, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="mb-3">
+                @Html.LabelFor(m => m.Category, new { @class = "form-label" })
+                @Html.DropDownListFor(m => m.Category,
+                         new SelectList(new[] { "Road", "Water", "Electricity" }),
+                         "Select Category",
+                         new { @class = "form-select", required = "required" })
+                @Html.ValidationMessageFor(m => m.Category, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Attach Media</label>
+                <input type="file" class="form-control" name="attachment" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Enter detailed description of the issue</label>
+                <textarea class="form-control" name="engagement" rows="6"></textarea>
+            </div>
+
+
+            <div class="d-flex gap-2">
+                <button type="submit" class="btn btn-primary flex-fill">Submit Issue</button>
+                <a href="@Url.Action("Index", "Home")" class="btn btn-secondary flex-fill">Back to Main Menu</a>
+            </div>
+        }
+    </div>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <script>
+        window.onload = function () {
+            alert("@TempData["SuccessMessage"]");
+        };
+    </script>
+}

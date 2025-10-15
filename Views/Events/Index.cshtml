@@ -1,0 +1,87 @@
+﻿@model MzansiFoSho_ST10070824.Models.EventsIndexViewModel
+@{
+    ViewBag.Title = "Local Events & Announcements";
+}
+<style>
+    body {
+        background-color: #d4edda;
+    }
+</style>
+
+<h2 class="mt-2 text-center text-primary">Mzansi Fo Sho — Local Events & Announcements</h2>
+<p class="text-muted text-center">Browse, search, and discover local events near you.</p>
+
+<form method="get" class="form-inline d-flex justify-content-center my-3">
+    <input type="text" name="search" value="@Model.Search" placeholder="Search events..." class="form-control mx-1" />
+    <select name="category" class="form-control mx-1">
+        <option value="">All Categories</option>
+        @foreach (var c in Model.Categories)
+        {
+            <option value="@c" selected="@(Model.Category == c)">@c</option>
+        }
+    </select>
+    <button class="btn btn-success mx-1" type="submit">Search</button>
+</form>
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8">
+            <h4>Events</h4>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Category</th>
+                        <th>Date</th>
+                        <th>Location</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var e in Model.Events)
+                    {
+                        <tr>
+                            <td>@e.Title</td>
+                            <td>@e.Category</td>
+                            <td>@e.Date.ToString("yyyy-MM-dd")</td>
+                            <td>@e.Location</td>
+                            <td><a class="btn btn-sm btn-outline-primary" href="@Url.Action("EventDetails", "Events", new { id = e.Id })">View</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="col-md-4">
+            <h5>Recommended for You</h5>
+            <ul class="list-group">
+                @foreach (var r in Model.Recommendations)
+                {
+                    <li class="list-group-item">
+                        <strong>@r.Title</strong><br />
+                        <small>@r.Category • @r.Date.ToString("dd MMM")</small>
+                    </li>
+                }
+            </ul>
+
+            <h5 class="mt-4">Recently Viewed</h5>
+            <ol>
+                @foreach (var rv in Model.RecentlyViewed)
+                {
+                    <li>@rv.Title</li>
+                }
+            </ol>
+
+            <h5 class="mt-4">Upcoming (Queue)</h5>
+            <ol>
+                @foreach (var up in Model.UpcomingQueue)
+                {
+                    <li>@up.Title (@up.Date.ToString("dd MMM"))</li>
+                }
+            </ol>
+            <div class="d-flex gap-2">              
+                <a href="@Url.Action("Index", "Home")" class="btn btn-secondary flex-fill">Back to Main Menu</a>
+            </div>
+        </div>
+    </div>
+</div>

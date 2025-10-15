@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\services\\storeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:services\\storeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\events\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\events\\eventdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\models\\localevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:models\\localevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\localevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\localevents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\home\\reportissue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\home\\reportissue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\servicestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\servicestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\models\\eventsindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:models\\eventsindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\home\\reportconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\home\\reportconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\models\\issues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:models\\issues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\wwwroot\\content\\mzansifosho.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:wwwroot\\content\\mzansifosho.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\wwwroot\\content\\mzansifosho.jpg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:wwwroot\\content\\mzansifosho.jpg.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|c:\\users\\lab_services_student\\documents\\prog7312-part1-micealahtyler-main\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F2AAB3FC-A7D2-4E13-BD7A-7B38A6C4C61C}|MzansiFoSho-ST10070824.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAD0AAAAAnpmZmZkJwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:40:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAYAAADgzMzMzAw8wDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:46:53.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAADYAAACAMjMzMzMrwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T07:41:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Events.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Events.cshtml",
+              "RelativeToolTip": "Views\\Home\\Events.cshtml",
+              "ViewState": "AgIAAAAAAABAAAAAAIAZwCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T04:52:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreEvents.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Services\\StoreEvents.cs",
+              "RelativeDocumentMoniker": "Services\\StoreEvents.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Services\\StoreEvents.cs",
+              "RelativeToolTip": "Services\\StoreEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:39:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFIAAABAAAAAAAAhwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T20:42:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Events\\EventDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\EventDetails.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Events\\EventDetails.cshtml",
+              "RelativeToolTip": "Views\\Events\\EventDetails.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAhwEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T04:56:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "Services\\RecommendationService.cs",
+              "ViewState": "AgIAAAgAAAAgzczMzMw3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:44:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocalEvents.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\LocalEvents.cs",
+              "RelativeDocumentMoniker": "Models\\LocalEvents.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\LocalEvents.cs",
+              "RelativeToolTip": "Models\\LocalEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:33:33.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalEvents.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\LocalEvents.cshtml",
+              "RelativeDocumentMoniker": "Views\\LocalEvents.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\LocalEvents.cshtml",
+              "RelativeToolTip": "Views\\LocalEvents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T20:46:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\ServiceStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceStatus.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\ServiceStatus.cshtml",
+              "RelativeToolTip": "Views\\ServiceStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T20:48:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportIssue.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\ReportIssue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ReportIssue.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\ReportIssue.cshtml",
+              "RelativeToolTip": "Views\\Home\\ReportIssue.cshtml",
+              "ViewState": "AgIAAC4AAACAmZmZmRkmwEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T20:44:47.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:52:40.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventsIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\EventsIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EventsIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\EventsIndexViewModel.cs",
+              "RelativeToolTip": "Models\\EventsIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:35:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-15T05:09:05.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T21:00:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T21:00:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\ReportConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ReportConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\ReportConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Home\\ReportConfirmation.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T08:08:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Issues.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\Issues.cs",
+              "RelativeDocumentMoniker": "Models\\Issues.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Models\\Issues.cs",
+              "RelativeToolTip": "Models\\Issues.cs",
+              "ViewState": "AgIAAAAAAABKZmZmZmYiwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:57:39.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MzansiFoSHo.png - PNG [1536x1024, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\wwwroot\\Content\\MzansiFoSHo.png",
+              "RelativeDocumentMoniker": "wwwroot\\Content\\MzansiFoSHo.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\wwwroot\\Content\\MzansiFoSHo.png - PNG [1536x1024, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\Content\\MzansiFoSHo.png - PNG [1536x1024, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-10T07:35:47.377Z",
+              "EditorCaption": " - PNG [1536x1024, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-05T21:14:35.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MzansiFoSHo.jpg.png - PNG [1536x1024, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\wwwroot\\Content\\MzansiFoSHo.jpg.png",
+              "RelativeDocumentMoniker": "wwwroot\\Content\\MzansiFoSHo.jpg.png",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\wwwroot\\Content\\MzansiFoSHo.jpg.png - PNG [1536x1024, 24 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\Content\\MzansiFoSHo.jpg.png - PNG [1536x1024, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-10T07:35:44.376Z",
+              "EditorCaption": " - PNG [1536x1024, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T21:02:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\prog7312-part1-MicealahTyler-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T20:49:42.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

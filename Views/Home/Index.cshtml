@@ -1,0 +1,120 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<style>
+    body {
+        background-color: #d4edda;
+        font-family: 'Segoe UI', Arial, sans-serif;
+    }
+
+    .welcome-section {
+        text-align: center;
+        padding: 50px 20px;
+    }
+
+    .app-title {
+        color: #0d6efd;
+        font-size: 3rem;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-bottom: 1rem;
+    }
+
+    .slogan {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: #145c32;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .card-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 65vh;
+    }
+
+    .card {
+        background-color: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+    .card-body img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .btn-lg {
+        border-radius: 10px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        padding: 12px 0;
+        transition: all 0.3s ease;
+    }
+
+    .btn-success {
+        background-color: #198754;
+        border: none;
+    }
+
+        .btn-success:hover {
+            background-color: #157347;
+        }
+
+    .btn-primary {
+        background-color: #0d6efd;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0b5ed7;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border: none;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5c636a;
+        }
+</style>
+
+<div class="welcome-section">
+    <h1 class="app-title">Mzansi Fo Sho</h1>
+
+    <div class="card-container">
+        <div class="col-md-6">
+            <div class="card shadow-lg text-center">
+                <div class="card-body">
+                    <img src="~/Content/MzansiFoSHo.png" alt="Mzansi Fo Sho" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p class="slogan">Fo Sho Change Starts Here</p>
+
+    <div class="d-grid gap-3 col-6 mx-auto">
+        <a class="btn btn-success btn-lg" href="@Url.Action("ReportIssue", "Home")">
+            Report Issues
+        </a>
+        <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Events")">
+            Local Events & Announcements
+        </a>
+        <button class="btn btn-secondary btn-lg" disabled>
+            Service Request Status (Coming Soon)
+        </button>
+    </div>
+</div>
