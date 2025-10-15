@@ -61,7 +61,7 @@ View the list of submitted issues and their current progress or resolution statu
 
 Use the Back to Main Menu button to return to the home screen.
 
-3. Local Events & Announcements - Part 2
+3. Local Events & Announcements - Part 2 Implementation
 
 Access the Local Events & Announcements page from the Main Menu.
 
